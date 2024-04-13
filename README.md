@@ -86,7 +86,7 @@ with seed values `F_0 = 0`, `F_1 = 0`, and `F_2 = 1`.
 To use in Observable,
 
 ```javascript
-iterTribonacciSeq = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@umd/browser.js' )
+iterTribonacciSeq = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -98,7 +98,7 @@ var iterTribonacciSeq = require( 'path/to/vendor/umd/math-iter-sequences-tribona
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -190,7 +190,7 @@ var bool = it.next().done;
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@v0.1.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
