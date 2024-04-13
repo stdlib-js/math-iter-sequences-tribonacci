@@ -84,7 +84,7 @@ with seed values `F_0 = 0`, `F_1 = 0`, and `F_2 = 1`.
 ## Usage
 
 ```javascript
-import iterTribonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@deno/mod.js';
+import iterTribonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@v0.1.0-deno/mod.js';
 ```
 
 #### iterTribonacciSeq( \[options] )
@@ -163,7 +163,7 @@ var bool = it.next().done;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import iterTribonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@deno/mod.js';
+import iterTribonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-tribonacci@v0.1.0-deno/mod.js';
 
 // Create an iterator:
 var it = iterTribonacciSeq();
