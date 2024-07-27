@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.1">
 
-## Unreleased (2024-07-07)
+## 0.1.1 (2024-07-27)
 
 <section class="commits">
 
@@ -44,7 +44,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Features
 
--   [`fa2359f`](https://github.com/stdlib-js/stdlib/commit/fa2359fd3d650e53a959d5e9a3084bfe041a96a0) - add `math/iter/sequences/tribonacci` [(##1393)](#1393)
+-   [`fa2359f`](https://github.com/stdlib-js/stdlib/commit/fa2359fd3d650e53a959d5e9a3084bfe041a96a0) - add `math/iter/sequences/tribonacci` [(#1393)](https://github.com/stdlib-js/stdlib/pull/1393)
 
 </section>
 
@@ -56,7 +56,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 This release closes the following issue:
 
-[##1331](#1331)
+[#1331](https://github.com/stdlib-js/stdlib/issues/1331)
 
 </section>
 
@@ -68,8 +68,8 @@ This release closes the following issue:
 
 <details>
 
--   [`5cfd0a8`](https://github.com/stdlib-js/stdlib/commit/5cfd0a8712299d680aff7f9d8fca0c0ac69de56b) - **chore:** update package meta data [(##1462)](#1462) _(by stdlib-bot)_
--   [`fa2359f`](https://github.com/stdlib-js/stdlib/commit/fa2359fd3d650e53a959d5e9a3084bfe041a96a0) - **feat:** add `math/iter/sequences/tribonacci` [(##1393)](#1393) _(by Praneki)_
+-   [`5cfd0a8`](https://github.com/stdlib-js/stdlib/commit/5cfd0a8712299d680aff7f9d8fca0c0ac69de56b) - **chore:** update package meta data [(#1462)](https://github.com/stdlib-js/stdlib/pull/1462) _(by stdlib-bot)_
+-   [`fa2359f`](https://github.com/stdlib-js/stdlib/commit/fa2359fd3d650e53a959d5e9a3084bfe041a96a0) - **feat:** add `math/iter/sequences/tribonacci` [(#1393)](https://github.com/stdlib-js/stdlib/pull/1393) _(by Praneki)_
 
 </details>
 
