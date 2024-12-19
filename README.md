@@ -305,9 +305,9 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/math/base/special/tribonacci]: https://github.com/stdlib-js/math-base-special-tribonacci
 
-[@stdlib/math/iter/sequences/lucas]: https://github.com/stdlib-js/math-iter-sequences-lucas
-
 [@stdlib/math/base/special/fibonacci]: https://github.com/stdlib-js/math-base-special-fibonacci
+
+[@stdlib/math/iter/sequences/lucas]: https://github.com/stdlib-js/math-iter-sequences-lucas
 
 <!-- </related-links> -->
 
